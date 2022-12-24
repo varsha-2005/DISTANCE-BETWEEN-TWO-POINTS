@@ -25,7 +25,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-!['OUTPUT'](/distancebetweentwopoints)
+!['OUTPUT'](/distancebetweentwopoints.png)
 
 ### RESULT:
 this program is successfully executed
